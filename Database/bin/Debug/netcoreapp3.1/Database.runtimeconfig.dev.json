@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\akula\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\akula\\.nuget\\packages"
+    ]
+  }
+}
